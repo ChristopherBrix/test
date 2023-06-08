@@ -1,0 +1,11 @@
+name: MyTool
+aws_instance: ami-0280f3286512b1b99
+scripts_dir: scripts/
+manual_installation_step: True
+run_install_as_root: False
+run_post_install_as_root: True
+run_toolkit_as_root: False
+description: >
+  Some short description of your tool
+  
+  It may even span multiple lines
